@@ -1,1 +1,1 @@
-# Face-detection-using-dnn
+# Face-detection-using-deep neural networks (dnn)
